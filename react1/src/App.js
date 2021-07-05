@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Name from "./Name";
 import Button from "./Button";
-import { useState, useEffect } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
